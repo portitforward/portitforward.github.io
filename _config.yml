@@ -1,11 +1,11 @@
 # Site settings
 author: Cody Fussell
-title: 
+title: Code the Future
 header-img: img/home-bg.png
 email: cody.fussell@gmail.com
 copyright_name: Cody Fussell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Insights into learning to program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  portitforward
